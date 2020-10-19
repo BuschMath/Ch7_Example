@@ -16,7 +16,9 @@ int main()
 
 	cout << number << endl << endl;
 
-	for (int i = 1; i <= 10; i=i+2)
+	cin >> number;
+
+	for (int i = 1; i <= 5; i += 2)
 	{
 		cout << i << endl;
 		for (int j = 1; j <= 5; j++)
