@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ch7_For_Example.cpp">
+    <ClCompile Include="Ch7_BreakContinue_Example.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
